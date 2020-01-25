@@ -1,4 +1,4 @@
-#March Madness
+# March Madness
 2017 March Madness Competition Data Analysis and Predictive Features
 
 For TOS compliance reasons, input data is excluded form this repository. To use the March Madness program, create an input folder with 
